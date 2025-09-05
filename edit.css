@@ -1,0 +1,43 @@
+. . . . . {
+    fundo: url(base-white.png);
+    alta: 630px;
+    largura: 750px;
+    /* margem escerta: -375px;
+ margem superior: -285px;*/
+}
+
+. . . . . . xbox .gatilho {
+    largura: 88px;
+    alta: 121px;
+    fundo: url(trigger.svg);
+    opacidade: 0;
+}
+
+. . . xbox .para-choque {
+    largura: 170px;
+    alta: 61px;
+    fundo: url(bumper.png);
+    opacidade: 0;
+}
+
+. . . . . . xbox .botão {
+    posição: absoluto;
+    fundo: url(abxy.png);
+    largura: 48px;
+    alta: 48px;
+}
+
+
+. . . . . . . . xbox .stick {
+    posição: absoluto;
+    fundo: url(stick.png);
+ posição de fundo: -85px 0;
+    alta: 83px;
+    largura: 83px;
+}
+
+. . . . . {
+    fundo: url(dpad.png);
+    posição: absoluto;
+    opacidade: 0;
+}
